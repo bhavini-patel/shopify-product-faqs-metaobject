@@ -7,7 +7,7 @@ https://test2k25pdp.myshopify.com/products/hoodie-with-slogan
 
 🖼️ Screenshots
 🛠️ Metaobject Setup (Shopify Admin)
-https://prnt.sc/R-WGEHoEkzD_
+https://prnt.sc/yadSZTUYl-1K
 
 📄 FAQs on Product Page (Live View)
 https://prnt.sc/Jx33NeqoxemX
