@@ -4,6 +4,7 @@ Liquid snippets and Shopify metaobject integration for dynamic product FAQs. Eas
 🌐 Live Demo
 Check out the live integration here:
 https://test2k25pdp.myshopify.com/products/hoodie-with-slogan 
+Password: 123
 
 🖼️ Screenshots
 🛠️ Metaobject Setup (Shopify Admin)
